@@ -3,7 +3,7 @@ Worked on this freelencing projects  for a construction company . The project de
 
 📌 Project Overview
 
-This project simulates a 4-router enterprise WAN topology built in Cisco Packet Tracer.
+This project simulates a 4-router enterprise WAN topology built in Cisco Packet Tracer..
 The design represents multiple branch offices connected through a redundant ring WAN, with each site supporting its own local LAN.
 The network demonstrates structured IP addressing, WAN subnetting, dynamic routing, and scalable hierarchical design.
 
