@@ -116,6 +116,8 @@ Practical routing and subnetting implementation
       **NETWORK DIAGRAM**
 <img width="473" height="333" alt="image" src="https://github.com/user-attachments/assets/30e3827d-5054-41ca-b374-6d837e88c7a5" />
 <img width="697" height="152" alt="Screenshot 2026-02-22 135012" src="https://github.com/user-attachments/assets/c8d95b34-a5dc-4880-bc78-bb4b407015c6" />
+<img width="597" height="353" alt="Screenshot 2026-02-22 134810" src="https://github.com/user-attachments/assets/ab9305f7-a1f0-4794-827d-80808638285c" />
+<img width="641" height="338" alt="Screenshot 2026-02-22 134854" src="https://github.com/user-attachments/assets/2affb4a9-27b8-4425-a61a-a99a4534835b" />
 
 
 
