@@ -113,7 +113,11 @@ Clean hierarchical design ready for future enhancements
 Practical routing and subnetting implementation
 
 
-##NETWORK DIAGRAM
+      **NETWORK DIAGRAM**
+<img width="473" height="333" alt="image" src="https://github.com/user-attachments/assets/30e3827d-5054-41ca-b374-6d837e88c7a5" />
+<img width="697" height="152" alt="Screenshot 2026-02-22 135012" src="https://github.com/user-attachments/assets/c8d95b34-a5dc-4880-bc78-bb4b407015c6" />
+
+
 
 
 
